@@ -45,9 +45,3 @@ I am a **Full-stack Developer** and **Senior Product Designer** with over 8 year
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://deyvison.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deyvison-silas/?locale=en-US)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@deyvison.com.br)
-
-## GitHub Stats:
-
-[![Deyvison's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeyvisonSLS&show_icons=true&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeyvisonSLS&layout=compact&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
