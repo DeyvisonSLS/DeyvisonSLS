@@ -1,6 +1,6 @@
 ### Hi there, I'm [Deyvison](https://github.com/deyvison) 👋
 
-I am a **Full-stack Developer** and **Senior Product Designer** with over 8 years of experience. I specialize in bridging the gap between high-level UI/UX strategy and robust technical implementation. Currently based in Natal, Brazil, I focus on building scalable web applications and AI-driven automations.
+I am a **Full-stack Junior Developer** and **Senior Product Designer** with over 8 years of experience. I specialize in bridging the gap between high-level UI/UX strategy and robust technical implementation. Currently based in Natal, Brazil, I focus on building scalable web applications and AI-driven automations.
 
 **My Core Focus**:
 - **Full-stack Development**: Expert in the Next.js ecosystem, TypeScript, and modern backend architectures.
