@@ -1,6 +1,6 @@
 ### Hi there, I'm [Deyvison](https://github.com/deyvison) 👋
 
-I am a **Full-stack Junior Developer** and **Senior Product Designer** with over 8 years of experience. I specialize in bridging the gap between high-level UI/UX strategy and robust technical implementation. Currently based in Natal, Brazil, I focus on building scalable web applications and AI-driven automations.
+I am a **Full-stack Developer** and **Senior Product Designer** with over 8 years of experience. I specialize in bridging the gap between high-level UI/UX strategy and robust technical implementation. Currently based in Natal, Brazil, I focus on building scalable web applications and AI-driven automations.
 
 **My Core Focus**:
 - **Full-stack Development**: Expert in the Next.js ecosystem, TypeScript, and modern backend architectures.
@@ -54,5 +54,13 @@ I am a **Full-stack Junior Developer** and **Senior Product Designer** with over
   </a>
 </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=deyvison&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Deyvison's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deyvison&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+## Stats:
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deyvison&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Deyvison's GitHub stats" />
+  <br/><br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deyvison&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+*Note: If stats are not appearing, ensure your GitHub account is public and you have enough activity for the charts to populate.*
